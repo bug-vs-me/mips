@@ -2,6 +2,8 @@
 
 ## Preamble
 
+
+<img src=x>
 ```
 MIP#: 0
 Title: The Maker Improvement Proposal Framework
