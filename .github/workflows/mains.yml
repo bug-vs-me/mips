@@ -1,4 +1,4 @@
-name: Deploy to IPFS
+name: Deploy to IPFSs
 
 on:
   push:
